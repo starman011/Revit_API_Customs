@@ -1,0 +1,6 @@
+C:\Users\MD SAQLAIN KHAN\source\repos\01_HelloWorld\01_HelloWorld\bin\Debug\01_HelloWorld.dll
+C:\Users\MD SAQLAIN KHAN\source\repos\01_HelloWorld\01_HelloWorld\bin\Debug\01_HelloWorld.pdb
+C:\Users\MD SAQLAIN KHAN\source\repos\01_HelloWorld\01_HelloWorld\obj\Debug\01_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\MD SAQLAIN KHAN\source\repos\01_HelloWorld\01_HelloWorld\obj\Debug\01_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\MD SAQLAIN KHAN\source\repos\01_HelloWorld\01_HelloWorld\obj\Debug\01_HelloWorld.dll
+C:\Users\MD SAQLAIN KHAN\source\repos\01_HelloWorld\01_HelloWorld\obj\Debug\01_HelloWorld.pdb
